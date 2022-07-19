@@ -1,2 +1,1 @@
-# suguna
-my first repository
+console.log("hellow world");
